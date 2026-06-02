@@ -16,24 +16,24 @@ interface PolaroidItem {
 const polaroids: PolaroidItem[] = [
   {
     id: 1,
-    image: 'https://files.catbox.moe/2uezlu.jpg',
+    image: 'https://giftinn.github.io/music-host/oii1.jpg',
     song: 'Senja Sudut Kota',
     artist: 'Samuel Cipta',
-    audio: 'https://files.catbox.moe/hde6rr.mp3'
+    audio: 'https://giftinn.github.io/music-host/surat%20cinta%20untuk%20starla.mp3'
   },
   {
     id: 2,
-    image: 'https://files.catbox.moe/6ud3ln.jpg',
-    song: 'Thinking Out Loud',
-    artist: 'Ed Sheeran',
-    audio: 'https://files.catbox.moe/m1asq3.mp3'
+    image: 'https://giftinn.github.io/music-host/oii2.jpg',
+    song: 'Senja Sudut Kota',
+    artist: 'Samuel Cipta',
+    audio: 'https://giftinn.github.io/music-host/hde6rr.mp3'
   },
   {
     id: 3,
-    image: 'https://files.catbox.moe/ly0lku.jpg',
-    song: 'Intro (End of the World',
-    artist: 'Ariana Grande',
-    audio: 'https://files.catbox.moe/b1waeh.mp3'
+    image: 'https://giftinn.github.io/music-host/oii3.jpg',
+    song: 'Mata ke Hati',
+    artist: 'HIV!',
+    audio: 'https://giftinn.github.io/music-host/HIV!%20Mata%20Ke%20Hati.mp3'
   }
 ];
 
