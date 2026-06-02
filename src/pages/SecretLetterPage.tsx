@@ -41,32 +41,15 @@ const SecretLetterPage: React.FC<SecretLetterPageProps> = ({ onBackToStart }) =>
   const [displayedText, setDisplayedText] = useState('');
   const [showFinalMessage, setShowFinalMessage] = useState(false);
 
-  const fullText = `Happy Mensiversary for Us! 
+  const fullText = `alloo iiouu, makasih ya udah mau luangin waktu buat buka minigift dari aku yang sederhana ini hehehe. semoga kamu sukaa yaa? 
+  disini aku cuma mau bilang terima kasih buat semuanya, for all those efforts yang selalu kamu usahakan buat aku, terima kasih udah mau bertahan disini sampai gak kerasa sudah setengah tahun kita bareng-bareng. rasanya kaya cepet banget berlalu yaa kalau sama orang yang tepat tuh, aku beruntung banget bisa kenal dan jadi bagian dari hari-hari kamu. 
   
-First, thank you for your time buat buka gift sederhana dari aku ini (and i hope u like it hehe). I just wanna say, happy mensive for my lovely, coolest man.
-
-Jujur aku khawatir banget kamu udah berhari-hari hilang dan gada kabar sama sekali, aku harap dihari mensive kita kamu udah bisa ngabarin aku dan buka minigift dari aku ini. aku harap kamu juga gak akan hilang kabar lama lagi kaya gini:c dan semoga mensive kedua ini aku gak merayakan sendiri.
-
-Then, i wanna say thank you for everything u did to me, it means a lot to me fr. makasihh udah mau nge-treat aku sebaik ituu, makasih udah mau dengerin semua keluh kesah aku, cerita random aku. aku jugaa makasih banget selama ini kamu selalu sabar sama aku, jarang marah intinya u treated me like a princess. thank you, sayang. i'm sorry if i act like a kid sometimes, bikin kamu kesel, suka ngambek sometimes.. maafin aku yaa sayangg? aku beneran berharap kita bisa lastlong sayang.
-
-And bcs it's our special day, aku harap hubungan kita makin kuat, perasaan kamu ke aku masih tetap sama (kalau bisa sih makin sayang dan cinta hehehe), dan semua mimpi kita berdua terwujud satu persatu. aku juga berharap semoga kita selalu dikelilingi sama hal-hal baik dan dijauhin dari yang jahat-jahat. aku berharap setelah ini, kamu ga hilang tanpa kabar lagii.. thenn, i just wanna say that u aren't alone. kamu harus percaya kalau kamu selalu dikelilingi orang-orang yang sayang sama kamu, utamanya aku yang selalu disini buat tempat kamu pulang. bahagia terus yaa sayang, jangan sedih-sedihh, jangan capek-capek jugaa.. semoga setiap masalah yang kamu hadapi selalu diberi jalan keluar dan dipermudah. 
-.
-.
-.
-i want to unravel you slowly, like a buried ache, longing to be seen. something in you felt so familiar—like the echo of a home i’ve spent my whole life trying to find.
-
-I don’t say much about how I feel,
-But loving you just feels so real.
-In quiet moments, day or night,
-You’re the reason everything feels right.
-
-If you could see my heart so clear,
-You’d know you’re what I hold most dear.
-No doubt, no fear, no trace of strife,
-You’re my favorite part of life.
-
-With all my heart, 
-Your Girlfriend.`;
+  di perayaan ini, aku cuma mau berterima kasih sebanyak-banyak nya ke kamu. makasih udah warnain hari-hari aku, nemenin akuu, ngajakin aku main, hibur aku pas aku lagi kurang bagus mood nya, pas lagi sedih atau ovt, makasih banyak yaa ayy. aku minta maaf, kalau selama ini masih banyak kurangnya selama jadi pasangan kamu. maaf kalau aku masih suka keras kepala, suka bawel banget kadang ke kamu sampai mungkin kamu ngerasa kesal sama aku. aku juga mau minta maaf kalau selama ini masih kurang bisa ngertiin kamu, dan mungkin kadang juga ada kalanya aku uring-uringan ke kamu, maafin aku ya ayy. makasih udah selalu jadi orang yang bisa ngertiin aku terus. 
+  
+  i'm truly grateful to have you in my life, aku gatau apa yang akan terjadi di masa depan, tapi aku selalu berharap kamu selalu ada disisi aku. nemenin dan selalu ada di momen paling sedih atau paling bahagia aku, begitu juga sebaliknya. untuk sekarang, aku mau kita jaga apa yang selama ini ada dan kita nikmati momen-momen yang ada dihubungan kita. harapan aku untuk kita, apapun masalahnya semoga kita bisa terus saling memahami satu sama lain. semoga kita bisa terus bisa saling support satu sama lain, dan bisa tumbuh bareng sampai kita bisa capai mimpi-mimpi kita nanti. semoga antara aku dan kamu terus mau untuk saling mengusahakan satu sama lain. 
+  
+  With all my heart, 
+  Your Girlfriend.`;
 
   useEffect(() => {
     let currentIndex = 0;
