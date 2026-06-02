@@ -17,8 +17,8 @@ const polaroids: PolaroidItem[] = [
   {
     id: 1,
     image: 'https://giftinn.github.io/music-host/oii1.jpg',
-    song: 'Senja Sudut Kota',
-    artist: 'Samuel Cipta',
+    song: 'Surat Cinta untuk Starla',
+    artist: 'Virgoun',
     audio: 'https://giftinn.github.io/music-host/surat%20cinta%20untuk%20starla.mp3'
   },
   {
